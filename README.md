@@ -18,9 +18,7 @@
   | ├─ FileReader.py
   | └─ FileWriter.py
   |
-  |
-  ├─ tsconfig.json
-  └─ tslint.json
+  └─ .gitignore
 ```
 
 ### Wikipedia-Datasets
